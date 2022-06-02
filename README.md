@@ -1,4 +1,5 @@
-#Wordie
+Wordie 
+
 A knockoff version of the game Wordle and written with Python
 
 This program is designed to simulate the popular game of Wordle and alternatively
